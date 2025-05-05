@@ -1,3 +1,3 @@
 
-  😃   cv -> [Viktor_Nyberg_CV.pdf](https://github.com/user-attachments/files/20047760/Viktor_Nyberg_CV.pdf)
 
+![image](https://github.com/user-attachments/assets/da1165bc-c64c-45da-a0e5-b9fb236916ff)

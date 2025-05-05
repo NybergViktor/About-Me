@@ -1,4 +1,3 @@
 
-  😃   cv -> https://github.com/NybergViktor/About-Me/blob/main/Viktor_Nyberg_lia_cv.pdf
+  😃   cv -> [Viktor_Nyberg_CV.pdf](https://github.com/user-attachments/files/20047760/Viktor_Nyberg_CV.pdf)
 
-  😃   #FrontEnd #BackEnd #Database #Security #MongoDB #Agile #GIT #GitHub #HTML #CSS

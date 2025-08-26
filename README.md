@@ -1,5 +1,5 @@
 https://www.linkedin.com/in/viktor-nyberg-312a7919b/
 
+https://www.viktornyberg.se
 
-
-[Viktor_Nyberg_CV_github.pdf](https://github.com/user-attachments/files/21995567/Viktor_Nyberg_CV_github.pdf)
+CV -> [Viktor_Nyberg_CV_github.pdf](https://github.com/user-attachments/files/21995576/Viktor_Nyberg_CV_github.pdf)
